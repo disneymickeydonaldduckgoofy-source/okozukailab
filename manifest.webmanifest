@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "おこづかいラボ",
+  "short_name": "おこづかいラボ",
+  "description": "10教科でポイントをためる おこづかいラボ",
+  "start_url": "./?launch=1",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#141414",
+  "lang": "ja",
+  "icons": [
+    { "src": "ok1-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "ok1-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "ok1-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
